@@ -1,0 +1,36 @@
+
+Output JSON:
+
+{"input":
+	{
+		"SpaceName":"English_TASA",
+		"Text1":"chair",
+		"Text2":null,
+		"Task":"NN",
+		"Count":5,
+		"Method":null},
+		"similarity":0,
+		"neighbors":
+
+			[	{
+				"term":"chair",
+				"weight":0.381,
+				"similarity":1,
+				"index":15442
+				},
+
+				{
+				"term":"dining",
+				"weight":0.505,
+				"similarity":0.593,
+				"index":24116
+				},
+
+				{
+				"term":"room",
+				"weight":0.25,
+				"similarity":0.591,
+				"index":70516
+				},
+			]
+	}
